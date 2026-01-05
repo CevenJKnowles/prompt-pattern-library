@@ -1,0 +1,12 @@
+site_name: Prompt Pattern Library
+site_description: Canonical taxonomy + atomic prompt pattern reference
+docs_dir: docs
+site_dir: site
+nav:
+  - Home: index.md
+  - Patterns: patterns/_index.md
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - tables
