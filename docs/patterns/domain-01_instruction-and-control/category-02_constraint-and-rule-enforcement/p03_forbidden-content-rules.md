@@ -52,7 +52,6 @@ Task:
 {task}
 ```
 ### Example Prompt
-
 ```text
 Forbidden Content Rules:
 - Do not include: URLs, personal data, internal repository secrets.
@@ -66,7 +65,6 @@ Explain Git branching and pushing without using any links.
 ```
 
 ### Example Output (Excerpt)
-
 ```text
 Steps:
 
