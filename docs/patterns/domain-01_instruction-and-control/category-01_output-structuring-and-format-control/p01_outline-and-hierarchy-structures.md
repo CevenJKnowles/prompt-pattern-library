@@ -82,7 +82,7 @@ This shifts the model from generative narration into **layout-first planning**.
 - Exploratory brainstorming
 - Conversational ideation or dialogue
 
-## Prompt Template
+## Prompt Skeleton
 ```text
 Create a structured outline for the topic below.
 
