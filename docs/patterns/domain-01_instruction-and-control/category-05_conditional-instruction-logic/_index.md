@@ -1,26 +1,31 @@
 ---
 id: ppl-d01-c05
-title: "Domain 01 / Category 05 — Conditional Instruction Logic"
+title: Domain 01 / Category 05 — Conditional Instruction Logic
 type: category-index
-status: stable
+status: active
 version: 1.0.0
-domain: "Instruction & Control"
-category: "Conditional Instruction Logic"
+domain: Instruction & Control
+category: Conditional Instruction Logic
 created: 2026-01-05
 updated: 2026-01-05
 ---
 
-# Category 05 — Conditional Instruction Logic
+# Conditional Instruction Logic
 
-## Description
-(TODO) Category description.
+## Definition
+A category of prompt patterns that encode **explicit conditional logic** (rules, branches, fallbacks) so outputs follow predictable decision paths.
 
-## Patterns
+## Included Patterns
+- p01 — If–Then Instruction Patterns
+- p02 — Branching Logic Instructions
+- p03 — Exception & Edge Case Handling
+- p04 — Fallback Behavior Directives
+- p05 — Context-Dependent Instructions
+- p06 — Preference-Based Condition Sets
+- p07 — Reserved Slot
 
-- Pattern 01 — If–Then Instruction Patterns: `p01_if-then-instruction-patterns.md`
-- Pattern 02 — Branching Logic Instructions: `p02_branching-logic-instructions.md`
-- Pattern 03 — Exception & Edge-Case Handling: `p03_exception-and-edge-case-handling.md`
-- Pattern 04 — Fallback Behavior Directives: `p04_fallback-behavior-directives.md`
-- Pattern 05 — Context-Dependent Instructions: `p05_context-dependent-instructions.md`
-- Pattern 06 — Preference-Based Condition Sets: `p06_preference-based-condition-sets.md`
-- Pattern 07 — Reserved (slot): `p07_reserved-slot.md`
+## Notes
+Use these patterns when you need deterministic routing. Prefer explicit predicates and define defaults.
+
+## Tags
+conditional-logic, branching, control-flow
