@@ -136,4 +136,7 @@ Topic: A GitHub-ready documentation workflow for a prompt pattern library
 ## Notes
 Combine with **Length & Granularity Control** only *after* the outline is generated.
 
+## Tags
+structure, hierarchy, outline, formatting, layout-control, planning
+
 ---
