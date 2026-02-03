@@ -2,6 +2,7 @@
 id: ppl-governed-cover-letter-vfinal
 status: stable
 type: master-prompt
+title: (NO! - again!)
 ---
 # MASTER PROMPT — GOVERNED COVER LETTER GENERATION (vFinal)
 

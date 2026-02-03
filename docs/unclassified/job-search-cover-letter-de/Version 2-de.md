@@ -1,3 +1,4 @@
+# For the last time, NO!
 # Master Prompt (2) — Governed Cover Letter Generation (vFinal)
 
 ## Role & Task

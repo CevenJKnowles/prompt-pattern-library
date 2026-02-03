@@ -1,6 +1,6 @@
 ---
 id: ppl-unclassified-governed-multiphase-generation-v1
-title: Governed Multi-Phase Generation with Validation Gates (German Cover Letter Example)
+title: (NO!) Governed Multi-Phase Generation with Validation Gates (German Cover Letter Example)
 domain: unclassified
 category: unclassified
 subcategories:
